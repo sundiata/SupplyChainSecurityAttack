@@ -8,3 +8,7 @@ node_modules/
 frontend/node_modules/
 frontend/dist/
 lab/**/node_modules/
+demo-site/attack-exfil-report.json
+demo-site/lab-victim-typo-only/node_modules/
+demo-site/lab-victim-dep-confusion/safe/node_modules/
+demo-site/lab-victim-dep-confusion/confused/node_modules/
